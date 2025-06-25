@@ -7,4 +7,21 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    padding: 40px 30px;
+    background-color: #FAFAF9;
+}
+
+.star-logo {
+    background-color: #F5C044;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.head {
+    font-size: 36px;
+    margin-bottom: 8px;
+} 
+
+.body {
+    color: #52525A;
 }
